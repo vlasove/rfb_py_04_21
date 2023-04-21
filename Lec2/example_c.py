@@ -15,6 +15,7 @@ word_c = "@@@"
 new_message = f"{word_a}{word_b}{word_c}"
 print(new_message)
 
+# TODO!
 # Изменение стандартных параметров print()
 print("=======НЕПОВТОРИМЫЙ ОРИГИНАЛ============")
 print("a", "b", "c")
