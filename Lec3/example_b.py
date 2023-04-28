@@ -2,6 +2,7 @@
 a_int = int(input()) # int("20") -> 20
 b_int = int(input()) # int("30") -> 30
 
+
 print(f"A value {a_int} and B value {b_int}")
 print("Type of A:", type(a_int))
 print(a_int, b_int)
