@@ -1,5 +1,5 @@
 # Вещественные числа
-a_float = float(input())
+a_float = float(input()) # 20.9999999
 b_float = float(input())
 
 
