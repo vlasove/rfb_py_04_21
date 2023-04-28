@@ -1,6 +1,6 @@
 # Целые числа (Явное приведение к типу int)
-a_int = int(input())
-b_int = int(input())
+a_int = int(input()) # int("20") -> 20
+b_int = int(input()) # int("30") -> 30
 
 print(f"A value {a_int} and B value {b_int}")
 print("Type of A:", type(a_int))
@@ -9,6 +9,7 @@ print(a_int, b_int)
 # Отрицательные числа
 print(-a_int)
 c_int = -a_int
+print(c_int)
 
 print("a - b = ", a_int - b_int)
 print("a + b = ", a_int + b_int)
