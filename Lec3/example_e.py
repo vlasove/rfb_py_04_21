@@ -3,6 +3,8 @@ name_str = "Bobby"
 last_name_str = "Kotik"
 third_name = 'The "Third"'
 
+print("Type is:", type(name_str))
+
 # Конкатенация
 res = name_str + " " + last_name_str + " " + third_name # результат - новая строка!
 print(res)
@@ -14,6 +16,8 @@ print(result) # Имеет смысл только при умножении н�
 # Взятие длины
 len_of_name = len(third_name)
 print("Len:", len_of_name)
+empty_str = ""
+print("empty len:", len(empty_str))
 
 # Нет типа char, есть только str
 character_example = 'a'
