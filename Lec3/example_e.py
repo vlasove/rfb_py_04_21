@@ -2,7 +2,6 @@
 name_str = "Bobby"
 last_name_str = "Kotik"
 third_name = 'The "Third"'
-
 print("Type is:", type(name_str))
 
 # Конкатенация
@@ -18,7 +17,6 @@ len_of_name = len(third_name)
 print("Len:", len_of_name)
 empty_str = ""
 print("empty len:", len(empty_str))
-
 # Нет типа char, есть только str
 character_example = 'a'
 print("Type:", type(character_example))
