@@ -54,3 +54,22 @@
 
 ### Задачи повышенной сложности:
 * -
+
+
+## День 5
+**Ссылка** : https://contest.yandex.ru/contest/49465/problems/
+
+### Обязательные задачи:
+* G,H,I,K
+
+### Необязательные задачи:
+* J
+
+### Задачи повышенной сложности:
+* L
+
+Обязательно ознакомиться с порталом:
+
+https://confluence.raiffeisen.ru/pages/viewpage.action?pageId=221850837
+
+Выполнить команду `pip install notebook`
