@@ -1,9 +1,9 @@
 # Решение задачи G
-# while True:
-#     num = int(input())
-#     if num == 0:
-#         break
-#     print(num)
+while True:
+    num = int(input())
+    if num == 0:
+        break
+    print(num)
 
 
 # Решение задачи H

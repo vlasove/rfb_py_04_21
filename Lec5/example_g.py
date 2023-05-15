@@ -7,8 +7,8 @@ while True:
     if numeric <= 0:
         break
 
-    summ += numeric
-    mult *= numeric
+    summ += numeric # summ = summ + numeric
+    mult *= numeric # nult = mult * numeric
 
 print("Общая сумма:", summ)
 print("Общее произведение:", mult)
