@@ -69,3 +69,9 @@ jupyter notebook --version
 ```
 jupyter notebook
 ```
+
+ИЛИ
+
+```
+python -m notebook
+```
