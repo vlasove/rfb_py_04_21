@@ -73,3 +73,18 @@
 https://confluence.raiffeisen.ru/pages/viewpage.action?pageId=221850837
 
 Выполнить команду `pip install notebook`
+
+
+## День 6
+**Ссылка** : https://contest.yandex.ru/contest/49465/problems/
+
+### Обязательные задачи:
+* M, N, O
+
+### Необязательные задачи:
+* P, Q
+
+### Задачи повышенной сложности:
+* -
+
+* Обязательно ознакомиться с файлом pip.instructions.md (на гите) + установить `notebook`
