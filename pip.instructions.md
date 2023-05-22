@@ -3,7 +3,7 @@
 * **PIP** - менеджер установки пакетов в `Python` (`pypi.org` - хранилище всех пакетов среди разработчиков `Python`)
 
 * Для того, чтобы устанавливать пакеты через `pip`:
-    1. Проверить, что `pip` установлен : `pip --version`
+    1. Проверить, что `pip` установлен : `pip --version` / ИЛИ `python -m pip --version`
     2. Для установки `pip install <package_name>`
     3. Для удаления `pip uninstall <package_name>`
 
