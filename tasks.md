@@ -88,3 +88,18 @@ https://confluence.raiffeisen.ru/pages/viewpage.action?pageId=221850837
 * -
 
 * Обязательно ознакомиться с файлом pip.instructions.md (на гите) + установить `notebook`
+
+
+## День 7
+**Ссылка 1** : https://contest.yandex.ru/contest/49465/problems/
+**Ссылка 2** : https://contest.yandex.ru/contest/49859/problems/
+
+
+### Обязательные задачи:
+* (Ссылка 1) : R, (Ссылка 2) : A,B,C,E,F
+
+### Необязательные задачи:
+* (Ссылка 2) : D
+
+### Задачи повышенной сложности:
+* (Ссылка 2) : G
