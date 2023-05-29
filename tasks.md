@@ -103,3 +103,17 @@ https://confluence.raiffeisen.ru/pages/viewpage.action?pageId=221850837
 
 ### Задачи повышенной сложности:
 * (Ссылка 2) : G
+
+
+## День 8
+**Ссылка** : https://contest.yandex.ru/contest/49859/problems/
+
+
+### Обязательные задачи:
+* I, J, K, L
+
+### Необязательные задачи:
+* M
+
+### Задачи повышенной сложности:
+* -
