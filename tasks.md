@@ -117,3 +117,17 @@ https://confluence.raiffeisen.ru/pages/viewpage.action?pageId=221850837
 
 ### Задачи повышенной сложности:
 * -
+
+
+## День 9
+**Ссылка** : https://contest.yandex.ru/contest/49859/problems/
+
+
+### Обязательные задачи:
+* N, O, P
+
+### Необязательные задачи:
+* -
+
+### Задачи повышенной сложности:
+* -
