@@ -144,3 +144,16 @@ https://confluence.raiffeisen.ru/pages/viewpage.action?pageId=221850837
 
 ### Задачи повышенной сложности:
 * -
+
+
+## День 11
+**Ссылка**: https://contest.yandex.ru/contest/50100/problems/
+
+### Обязательные задачи:
+* K
+
+### Необязтельные задачи:
+* -
+
+### Задачи повышенной сложности:
+* -
