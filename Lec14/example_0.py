@@ -63,3 +63,5 @@ def main():
     print(lst)
 
 main()
+
+square_sum()
