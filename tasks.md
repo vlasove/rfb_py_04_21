@@ -219,3 +219,15 @@ https://confluence.raiffeisen.ru/pages/viewpage.action?pageId=221850837
 
 ### Задачи повышенной сложности:
 * -
+
+### День 17
+**Ссылка**: https://contest.yandex.ru/contest/50461/problems/
+
+### Обязательные задачи:
+* A, B, C, D
+
+### Необязательные задачи:
+* E
+
+### Задачи повышенной сложности:
+* F
